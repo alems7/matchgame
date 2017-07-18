@@ -106,3 +106,16 @@ div[class^='col']{
 .blanco{
   color: white;
 }
+
+.wraper-dulces{
+  margin: 0;
+  list-style: none;
+}
+
+.wraper-dulce{
+  text-align: center;
+}
+.dulce{
+  height: 70px;
+  width: 70px;
+}
